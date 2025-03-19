@@ -1,0 +1,5 @@
+pptx
+openai
+python-pptx
+tkinter
+```
